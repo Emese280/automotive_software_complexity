@@ -1,10 +1,1 @@
-C nyelv használata az autóiparban.
 
-A nyelv kielégíti a járművekben lévő beágyazott rendszerek szigorú követelményeit.
-
-Okok:
-1. Hardverközeli kód: Elérhetővé teszi a nyelv a mikrovezérlők regisztereinek és memóriáinak manipulását és elérését.
-2. Minimális erőforrás-igény: Az ECU memóriája gyakran korlátozott, a C pedig kicsi és gyors gépi kód.
-3. Kiszámítható futási idő: Nagyon fontos az ezredmásodperces reakcióidő a biztonságkritikus rendszereknél.
-4. Nincs autómatikus memóriatisztítás, ami leállítaná/lassítaná a folyamatokat.
-5. MISRA C szabvány: Korlátozza a C nyelv veszélyes funcióit.
